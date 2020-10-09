@@ -304,23 +304,23 @@ Galv.DETECT.los = function(char1,char2) {
 	var a = {x:char1.x, y:char1.y};
 	var b = {x:char2.x, y:char2.y};
 
-	// If in front
-	switch (char2._direction) {
-		case 2:
-			if (b.y > a.y) return false;
-			break;
-		case 4:
-			if (b.x < a.x) return false;
-			break;
-		case 6:
-			if (b.x > a.x) return false;
-			break;
-		case 8:
-			if (b.y < a.y) return false;
-			break;
-		default:
+	// // If in front
+	// switch (char2._direction) {
+	// 	case 2:
+	// 		if (b.y > a.y) return false;
+	// 		break;
+	// 	case 4:
+	// 		if (b.x < a.x) return false;
+	// 		break;
+	// 	case 6:
+	// 		if (b.x > a.x) return false;
+	// 		break;
+	// 	case 8:
+	// 		if (b.y < a.y) return false;
+	// 		break;
+	// 	default:
 			
-	};
+	// };
 
 	// Direct Line
 	if (Math.abs(a.x - b.x) >= Math.abs(a.y - b.y)) {
