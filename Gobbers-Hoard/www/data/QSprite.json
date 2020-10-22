@@ -1,0 +1,459 @@
+{
+  "Gobber": {
+    "name": "Gobber",
+    "cols": 24,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\Games\\CMPUT 250\\Gobber's Hoard\\CurrentBuild\\img\\characters\\%Gobber-gobber_sheet%(6).png",
+    "poses": {
+      "idle1": {
+        "name": "idle1",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "idle2": {
+        "name": "idle2",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "idle3": {
+        "name": "idle3",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          96,
+          97,
+          98,
+          99,
+          100,
+          101
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      },
+      "idle7": {
+        "name": "idle7",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          72,
+          73,
+          74,
+          75,
+          76,
+          77
+        ]
+      },
+      "idle9": {
+        "name": "idle9",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          144,
+          145,
+          146,
+          147,
+          148,
+          149
+        ]
+      },
+      "move1": {
+        "name": "move1",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          35,
+          34,
+          33,
+          32,
+          31,
+          30
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "move3": {
+        "name": "move3",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          102,
+          103,
+          104,
+          105,
+          106,
+          107
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          35,
+          34,
+          33,
+          32,
+          31,
+          30
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          54,
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      },
+      "move7": {
+        "name": "move7",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          35,
+          34,
+          33,
+          32,
+          31,
+          30
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          78,
+          79,
+          80,
+          81,
+          82,
+          83
+        ]
+      },
+      "move9": {
+        "name": "move9",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          150,
+          151,
+          152,
+          153,
+          154,
+          155
+        ]
+      }
+    }
+  },
+  "Guard": {
+    "name": "Guard",
+    "cols": 24,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\Games\\CMPUT 250\\Gobber's Hoard\\CurrentBuild\\img\\characters\\%Guard-guard_sheet%(6).png",
+    "poses": {
+      "idle1": {
+        "name": "idle1",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "idle2": {
+        "name": "idle2",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "idle3": {
+        "name": "idle3",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          96,
+          97,
+          98,
+          99,
+          100,
+          101
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      },
+      "idle7": {
+        "name": "idle7",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          72,
+          73,
+          74,
+          75,
+          76,
+          77
+        ]
+      },
+      "idle9": {
+        "name": "idle9",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          144,
+          145,
+          146,
+          147,
+          148,
+          149
+        ]
+      },
+      "move1": {
+        "name": "move1",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          35,
+          34,
+          33,
+          32,
+          31,
+          30
+        ]
+      },
+      "move2": {
+        "name": "move2",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "move3": {
+        "name": "move3",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          102,
+          103,
+          104,
+          105,
+          106,
+          107
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          35,
+          34,
+          33,
+          32,
+          31,
+          30
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          54,
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      },
+      "move7": {
+        "name": "move7",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          35,
+          34,
+          33,
+          32,
+          31,
+          30
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          78,
+          79,
+          80,
+          81,
+          82,
+          83
+        ]
+      },
+      "move9": {
+        "name": "move9",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          150,
+          151,
+          152,
+          153,
+          154,
+          155
+        ]
+      }
+    }
+  },
+  "Bottle": {
+    "name": "Bottle",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\Games\\CMPUT 250\\Gobber's Hoard\\CurrentBuild\\img\\characters\\%Bottle-Bottle_Anim.png",
+    "poses": {
+      "break": {
+        "name": "break",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          48,
+          60,
+          72,
+          84
+        ]
+      }
+    }
+  }
+}
