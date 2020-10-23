@@ -1,6 +1,6 @@
 ## Gobber's Hoard
 
 ### A game by Bathrobe Studios! 
-Brought to you by: Conor Teasdale, Evan Doerksen, Mateo P.B, Sarang V.K, Sheldon Stockdale, Ritwik Rastogi and EP Jeff Cho. poo
+Brought to you by: Conor Teasdale, Evan Doerksen, Mateo P.B, Sarang V.K, Sheldon Stockdale, Ritwik Rastogi and EP Jeff Cho.
 
 [Tech Demo web](/Gobbers-Hoard/index.html) and [Tech Demo download](Gobbers-Hoard.zip)
