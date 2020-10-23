@@ -1,8 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Proto Map-1","order":1,"parentId":0,"scrollX":1005.3333333333334,"scrollY":680.8888888888889},
-{"id":2,"expanded":true,"name":"Gold collection","order":2,"parentId":1,"scrollX":1005.3333333333334,"scrollY":640.8888888888889},
-{"id":3,"expanded":true,"name":"VS 1 test","order":3,"parentId":2,"scrollX":1012.4444444444445,"scrollY":562.6666666666666},
-{"id":4,"expanded":true,"name":"Vertical Slice","order":4,"parentId":0,"scrollX":1012.4444444444445,"scrollY":562.6666666666666},
-{"id":5,"expanded":false,"name":"Death Screen VS 1 test","order":5,"parentId":4,"scrollX":1012.4444444444445,"scrollY":562.6666666666666}
+{"id":1,"expanded":true,"name":"Proto Map-1","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":824.4},
+{"id":2,"expanded":true,"name":"Gold collection","order":2,"parentId":1,"scrollX":973.1999999999999,"scrollY":640.8},
+{"id":3,"expanded":true,"name":"VS 1 test","order":3,"parentId":2,"scrollX":828.3636363636364,"scrollY":466.1818181818182},
+{"id":4,"expanded":true,"name":"Vertical Slice","order":4,"parentId":0,"scrollX":822.5454545454545,"scrollY":493.8181818181818},
+{"id":5,"expanded":false,"name":"Death Screen VS 1 test","order":5,"parentId":4,"scrollX":828.3636363636364,"scrollY":466.1818181818182},
+{"id":6,"expanded":false,"name":"Level 1","order":6,"parentId":0,"scrollX":828.3636363636364,"scrollY":466.1818181818182}
 ]
