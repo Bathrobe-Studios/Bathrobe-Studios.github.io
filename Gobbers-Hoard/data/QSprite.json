@@ -770,60 +770,6 @@
       }
     }
   },
-  "Bottle": {
-    "name": "Bottle",
-    "cols": 12,
-    "rows": 8,
-    "anchorX": 0.5,
-    "anchorY": 1,
-    "sampleImg": "D:\\Games\\CMPUT 250\\Gobber's Hoard\\TestBuild\\CurrentBuild\\img\\characters\\!Bottle-break.png",
-    "poses": {
-      "move2": {
-        "name": "move2",
-        "speed": 7,
-        "adjust": false,
-        "pattern": [
-          0,
-          12,
-          24,
-          24
-        ]
-      },
-      "move6": {
-        "name": "move6",
-        "speed": 7,
-        "adjust": false,
-        "pattern": [
-          0,
-          12,
-          24,
-          24
-        ]
-      },
-      "move4": {
-        "name": "move4",
-        "speed": 7,
-        "adjust": false,
-        "pattern": [
-          0,
-          12,
-          24,
-          24
-        ]
-      },
-      "move8": {
-        "name": "move8",
-        "speed": 7,
-        "adjust": false,
-        "pattern": [
-          0,
-          12,
-          24,
-          24
-        ]
-      }
-    }
-  },
   "Shiny_Chest": {
     "name": "Shiny_Chest",
     "cols": 12,
@@ -1108,6 +1054,48 @@
           53,
           54,
           55
+        ]
+      }
+    }
+  },
+  "Bottle": {
+    "name": "Bottle",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\Games\\CMPUT 250\\Gobber's Hoard\\TestBuild\\CurrentBuild\\img\\characters\\!Bottle-break.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          0,
+          0,
+          0
+        ]
+      },
+      "stun": {
+        "name": "stun",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          14
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          14,
+          14,
+          14,
+          14
         ]
       }
     }
