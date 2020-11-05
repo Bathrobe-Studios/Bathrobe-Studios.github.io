@@ -1733,8 +1733,8 @@ function ColliderManager() {
         chara = QPlus.getCharacter(args[0]);
       }
       if (!chara) return;
-      var x = Number(args[1]) / QMovement.tileSize;
-      var y = Number(args[2]) / QMovement.tileSize;
+      var x = Number(eval(args[1])) / QMovement.tileSize;
+      var y = Number(eval(args[2])) / QMovement.tileSize;
       var dir = Number(QPlus.getArg(args, /^dir(\d+)$/i)) || 0;
       chara.locate(x, y);
       if (dir > 0) {

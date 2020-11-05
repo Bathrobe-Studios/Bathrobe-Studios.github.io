@@ -776,17 +776,50 @@
     "rows": 8,
     "anchorX": 0.5,
     "anchorY": 1,
-    "sampleImg": "D:\\Games\\CMPUT 250\\Gobber's Hoard\\CurrentBuild\\img\\characters\\!Bottle-break.png",
+    "sampleImg": "D:\\Games\\CMPUT 250\\Gobber's Hoard\\TestBuild\\CurrentBuild\\img\\characters\\!Bottle-break.png",
     "poses": {
-      "break": {
-        "name": "break",
+      "move2": {
+        "name": "move2",
         "speed": 7,
         "adjust": false,
         "pattern": [
-          48,
-          60,
-          72,
-          84
+          0,
+          12,
+          24,
+          24
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          0,
+          12,
+          24,
+          24
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          0,
+          12,
+          24,
+          24
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          0,
+          12,
+          24,
+          24
         ]
       }
     }
@@ -990,6 +1023,91 @@
           0,
           1,
           2
+        ]
+      }
+    }
+  },
+  "Items2": {
+    "name": "Items2",
+    "cols": 12,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\Games\\CMPUT 250\\Gobber's Hoard\\TestBuild\\CurrentBuild\\img\\characters\\!Items2-.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          0,
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          12,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      "idle3": {
+        "name": "idle3",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
         ]
       }
     }
