@@ -1,14 +1,15 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Proto Map-1","order":1,"parentId":0,"scrollX":692,"scrollY":899},
+{"id":1,"expanded":false,"name":"Proto Map-1","order":1,"parentId":0,"scrollX":791.2,"scrollY":362.4},
 {"id":2,"expanded":false,"name":"Gold collection","order":2,"parentId":1,"scrollX":811,"scrollY":641},
 {"id":3,"expanded":true,"name":"VS 1 test","order":3,"parentId":2,"scrollX":1012.4444444444445,"scrollY":569.7777777777778},
-{"id":4,"expanded":true,"name":"Vertical Slice","order":4,"parentId":0,"scrollX":791.2,"scrollY":499.2},
-{"id":5,"expanded":false,"name":"Death Screen VS Lvl 2","order":5,"parentId":4,"scrollX":728,"scrollY":409.77777777777777},
+{"id":4,"expanded":true,"name":"Vertical Slice","order":4,"parentId":0,"scrollX":811,"scrollY":507},
+{"id":5,"expanded":false,"name":"Death Screen VS Lvl 2","order":5,"parentId":4,"scrollX":819,"scrollY":453},
 {"id":6,"expanded":true,"name":"Level 1","order":6,"parentId":0,"scrollX":459,"scrollY":341},
-{"id":7,"expanded":false,"name":"Death Screen","order":11,"parentId":0,"scrollX":459,"scrollY":341},
+{"id":7,"expanded":false,"name":"Death Screen","order":12,"parentId":0,"scrollX":819,"scrollY":453},
 {"id":8,"expanded":false,"name":"Level 2","order":7,"parentId":6,"scrollX":459,"scrollY":341},
-{"id":9,"expanded":true,"name":"Level 3","order":8,"parentId":6,"scrollX":649,"scrollY":538},
-{"id":10,"expanded":false,"name":"Level 4","order":9,"parentId":6,"scrollX":451,"scrollY":341},
-{"id":11,"expanded":false,"name":"New Level","order":10,"parentId":6,"scrollX":459,"scrollY":341}
+{"id":9,"expanded":true,"name":"Level 3","order":8,"parentId":6,"scrollX":451,"scrollY":627},
+{"id":10,"expanded":false,"name":"Level 4","order":9,"parentId":6,"scrollX":451,"scrollY":767},
+{"id":11,"expanded":false,"name":"New Level","order":10,"parentId":6,"scrollX":459,"scrollY":341},
+{"id":12,"expanded":false,"name":"Level 5","order":11,"parentId":6,"scrollX":459,"scrollY":341}
 ]
