@@ -6,3 +6,11 @@ Brought to you by: Conor Teasdale, Evan Doerksen, Mateo P.B, Sarang V.K, Sheldon
 [Beta web](/Gobbers-Hoard/index.html) and [Beta download](Gobbers-Hoard.zip) 
 
 [Beta Survey](https://docs.google.com/forms/d/e/1FAIpQLSeS3wD8SRJCQ7kgaHS7u2yLsLZs7wxYNrZEVJ0wmW3g3GqMCQ/alreadyresponded) to give feedback.
+
+
+Controls For Gobber's Hoard:
+
+WASD - Player Movement
+Left Shift - Small dash to player
+Left Mouse Click - Shoot a Pebble to break a pot or stun a guard
+Right Mouse Click/Escape - Pause
