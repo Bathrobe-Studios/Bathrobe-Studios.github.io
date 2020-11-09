@@ -1558,6 +1558,8 @@ function Skill_Sequencer() {
       this._character.setMoveSpeed(spd + amt);
     } else if (action[0] === 'dec') {
       this._character.setMoveSpeed(spd - amt);
+    } else if (action[0] === 'set') {
+      this._character.setMoveSpeed(amt);
     }
   };
 
