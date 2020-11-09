@@ -864,7 +864,7 @@ function QPathfind() {
       if (args2[1].toLowerCase() === 'this') {
         chara2 = this.character(0);
       } else {
-        console.log(eval(args2[1]));
+      //   console.log(eval(args2[1]));
         chara2 = QPlus.getCharacter(eval(args2[1]));
       }
       if (Imported.QMovement) {
