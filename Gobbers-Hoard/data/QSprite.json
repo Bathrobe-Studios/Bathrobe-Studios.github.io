@@ -1434,5 +1434,117 @@
         ]
       }
     }
+  },
+  "Golem1": {
+    "name": "Golem1",
+    "cols": 24,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\Games\\CMPUT 250\\Gobber's Hoard\\TestBuild\\CurrentBuild\\img\\characters\\!Golem1-sleep.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          1
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          49
+        ]
+      },
+      "idle4": {
+        "name": "idle4",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          25
+        ]
+      },
+      "idle8": {
+        "name": "idle8",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          73
+        ]
+      }
+    }
+  },
+  "Door2": {
+    "name": "Door2",
+    "cols": 24,
+    "rows": 8,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "D:\\Games\\CMPUT 250\\Gobber's Hoard\\TestBuild\\CurrentBuild\\img\\characters\\!Door2-locked.png",
+    "poses": {
+      "idle2": {
+        "name": "idle2",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "unlock": {
+        "name": "unlock",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "shut": {
+        "name": "shut",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          57,
+          56,
+          55,
+          54,
+          53,
+          52,
+          51,
+          50,
+          49,
+          48
+        ]
+      },
+      "idle6": {
+        "name": "idle6",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          48
+        ]
+      }
+    }
   }
 }
