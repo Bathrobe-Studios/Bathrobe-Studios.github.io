@@ -1,0 +1,82 @@
+Gobbers Hoard
+
+A Game by Bathrobe Studios
+
+Executive Producer
+Jeff Cho
+
+Producer
+Ritwik Rastogi
+
+Lead Designer
+Conor Teasdale
+
+Lead Developer
+Evan Doerksen
+
+Additional Programming
+Conor Teasdale
+Evan Doerksen
+Mateo Paez
+Ritwik Rastogi
+
+Github Managment and Deploy
+Mateo Paez
+Ritwik Rastogi
+
+Sound Design and Music
+Sheldon Stockdale
+
+Art Designer
+Conor Teasdale
+
+Additional Art Assets
+Conor Teasdale
+
+Animation
+Conor Teasdale
+
+Main Menu Art
+Sarang Kshirsagar
+
+Modified Tileset Used 
+https://o-lobster.itch.io/simple-dungeon-crawler-16x16-pixel-pack
+
+Music Used
+TechnoAXE's Royalty Free Music 
+All Time High Jump - 8 Bit/Chiptune - Royalty Free Music
+Treacherous Gators - Eight Bit/Chiptune - Royalty Free Music
+Frog Suit Power Up - Chiptune/8-bit - Royalty Free Music
+Hero Dance Party - Chiptune/8-bit - Royalty Free Music
+
+Sound Effects
+www.kenney.nl
+
+Used Plugins
+OrangeHud
+OrangeHudFixedPicture
+OrangeHudGold
+QABS
+QInput+Remap
+QInput
+QMovement
+QPathfind
+QPlus
+QSight
+QSpeed
+QSprite
+QTouch
+SRD_TitleCommandCustomizer
+YEP_MainMenuManager
+YEP_SaveEventLocations
+YEP_SaveCore
+YEP_X_Autosave
+
+
+Special Thanks
+Anime Gobber
+Blobber
+Jeff Cho for supporting our endeavors
+
+Shout out to the the Homies for making this Possible!
+
