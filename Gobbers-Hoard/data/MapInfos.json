@@ -16,7 +16,7 @@ null,
 {"id":14,"expanded":true,"name":"Opening Cutscene","order":12,"parentId":0,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":15,"expanded":false,"name":"Beta End Screen","order":8,"parentId":13,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":16,"expanded":false,"name":"Tower Fall Scene","order":14,"parentId":0,"scrollX":1508,"scrollY":854.6666666666666},
-{"id":17,"expanded":false,"name":"Escape Sequence","order":9,"parentId":13,"scrollX":1508,"scrollY":844},
+{"id":17,"expanded":false,"name":"Escape Sequence","order":9,"parentId":13,"scrollX":1568,"scrollY":1076},
 {"id":18,"expanded":true,"name":"Empty Vault","order":10,"parentId":13,"scrollX":1518.6666666666667,"scrollY":854.6666666666666},
 {"id":19,"expanded":false,"name":"Final Gold Display Screen","order":13,"parentId":0,"scrollX":1518.6666666666667,"scrollY":854.6666666666666}
 ]
