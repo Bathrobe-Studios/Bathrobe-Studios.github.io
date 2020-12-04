@@ -5,8 +5,8 @@ Brought to you by: Conor Teasdale, Evan Doerksen, Mateo P.B, Sarang V.K, Sheldon
 
 [Gold Release](/Gobbers-Hoard/index.html) and [Gold Download](Gobbers-Hoard.zip) 
 
-[Beta Survey](https://docs.google.com/forms/d/e/1FAIpQLSeS3wD8SRJCQ7kgaHS7u2yLsLZs7wxYNrZEVJ0wmW3g3GqMCQ/alreadyresponded) to give feedback.
-
+Previous Builds:
+[Beta](/Gobbers-HoardB/index.html), [Vertical Slice](/Gobbers-HoardVS2/index.html), [Tech Demo](/Gobbers-HoardTD/index.html)
 
 Controls For Gobber's Hoard:\
 \
