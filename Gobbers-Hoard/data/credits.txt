@@ -52,27 +52,6 @@ Hero Dance Party - Chiptune/8-bit - Royalty Free Music
 Sound Effects
 www.kenney.nl
 
-Used Plugins
-OrangeHud
-OrangeHudFixedPicture
-OrangeHudGold
-QABS
-QInput+Remap
-QInput
-QMovement
-QPathfind
-QPlus
-QSight
-QSpeed
-QSprite
-QTouch
-SRD_TitleCommandCustomizer
-YEP_MainMenuManager
-YEP_SaveEventLocations
-YEP_SaveCore
-YEP_X_Autosave
-
-
 Special Thanks
 Anime Gobber
 Blobber
