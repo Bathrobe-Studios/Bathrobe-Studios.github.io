@@ -17,5 +17,5 @@ Controls For Gobber's Hoard:\
  
 
 Mechanics:<br/> 
-  Shooting a bottle distracts any earby guards for a bit.<br/>
+  Shooting a bottle distracts any nearby guards for a bit.<br/>
   Shooting a guard knocks him back a small bit and will chase the player if they shoot him.<br/>
