@@ -1,45 +1,33 @@
-Gobbers Hoard
+Gobber's Hoard
 
 A Game by Bathrobe Studios
 
-Executive Producer
 Jeff Cho
+Executive Producer
 
-Producer
-Ritwik Rastogi
-
+Conor Teasdale
 Lead Designer
-Conor Teasdale
-
-Lead Developer
-Evan Doerksen
-
-Additional Programming
-Conor Teasdale
-Evan Doerksen
-Mateo Paez
-Ritwik Rastogi
-
-Github Managment and Deploy
-Mateo Paez
-Ritwik Rastogi
-
-Sound Design and Music
-Sheldon Stockdale
-
 Art Designer
-Conor Teasdale
-
 Additional Art Assets
-Conor Teasdale
-
 Animation
-Conor Teasdale
+Programming
 
-Main Menu Art
+Evan Doerksen
+Lead Developer
+Programming
+
+Mateo Paez
+Github Management and Web Deployment
+Programming
+
+Ritwik Rastogi
+Github Management and Web Deployment
+Programming
+
 Sarang Kshirsagar
+Main Menu Art
 
-Modified Tileset Used 
+Modified Tileset Used
 https://o-lobster.itch.io/simple-dungeon-crawler-16x16-pixel-pack
 
 Music Used
@@ -52,10 +40,8 @@ Hero Dance Party - Chiptune/8-bit - Royalty Free Music
 Sound Effects
 www.kenney.nl
 
-Special Thanks
+Special Thanks To
+Dr. Nathan Sturtevant
+CMPUT 250 TAs
 Anime Gobber
 Blobber
-Jeff Cho for supporting our endeavors
-
-Shout out to the the Homies for making this Possible!
-

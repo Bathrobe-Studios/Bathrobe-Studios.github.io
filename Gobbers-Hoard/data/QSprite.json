@@ -215,19 +215,6 @@
           155
         ]
       },
-      "wide6": {
-        "name": "wide6",
-        "speed": 7,
-        "adjust": false,
-        "pattern": [
-          186,
-          187,
-          188,
-          189,
-          190,
-          191
-        ]
-      },
       "kill1": {
         "name": "kill1",
         "speed": 6,
@@ -330,6 +317,110 @@
           21,
           22,
           23
+        ]
+      },
+      "wide1": {
+        "name": "wide1",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "wide2": {
+        "name": "wide2",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "wide3": {
+        "name": "wide3",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      },
+      "wide4": {
+        "name": "wide4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "wide6": {
+        "name": "wide6",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      },
+      "wide7": {
+        "name": "wide7",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "wide8": {
+        "name": "wide8",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          84,
+          85,
+          86,
+          87,
+          88,
+          89
+        ]
+      },
+      "wide9": {
+        "name": "wide9",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          84,
+          85,
+          86,
+          87,
+          88,
+          89
         ]
       }
     }
@@ -2804,6 +2895,14 @@
           0
         ]
       },
+      "idle3": {
+        "name": "idle3",
+        "speed": 10,
+        "adjust": false,
+        "pattern": [
+          14
+        ]
+      },
       "idle4": {
         "name": "idle4",
         "speed": 10,
@@ -2834,14 +2933,6 @@
         "adjust": false,
         "pattern": [
           13
-        ]
-      },
-      "idle3": {
-        "name": "idle3",
-        "speed": 10,
-        "adjust": false,
-        "pattern": [
-          14
         ]
       },
       "shatter2": {
@@ -2923,6 +3014,68 @@
           20,
           23,
           23
+        ]
+      },
+      "crack2": {
+        "name": "crack2",
+        "speed": 8,
+        "adjust": false,
+        "pattern": [
+          0,
+          3,
+          3,
+          9
+        ]
+      },
+      "crack4": {
+        "name": "crack4",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          1,
+          4,
+          4,
+          ""
+        ]
+      },
+      "crack6": {
+        "name": "crack6",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          2,
+          5,
+          5
+        ]
+      },
+      "crack8": {
+        "name": "crack8",
+        "speed": 8,
+        "adjust": false,
+        "pattern": [
+          12,
+          15,
+          15
+        ]
+      },
+      "crack9": {
+        "name": "crack9",
+        "speed": 6,
+        "adjust": false,
+        "pattern": [
+          13,
+          16,
+          16
+        ]
+      },
+      "crack3": {
+        "name": "crack3",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          14,
+          17,
+          17
         ]
       }
     }
