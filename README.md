@@ -3,7 +3,7 @@
 ### A game by Bathrobe Studios! 
 Brought to you by: Conor Teasdale, Evan Doerksen, Mateo P.B, Sarang V.K, Sheldon Stockdale, Ritwik Rastogi and EP Jeff Cho!
 
-[Trailer](/https://www.youtube.com/watch?v=H3yzrdtegsc)
+[Trailer](https://www.youtube.com/watch?v=H3yzrdtegsc)
 
 [Gold Release](/Gobbers-Hoard/index.html)
 
